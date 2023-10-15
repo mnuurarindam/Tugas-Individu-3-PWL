@@ -1,6 +1,5 @@
 // component
 import Header from "../components/Header";
-import { Curious } from "../components/Assets";
 import { ThemeContext } from "../context/themeContext";
 import { AddButton, MinButton, ResetButton } from "../components/Button";
 
