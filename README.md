@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Tugas Individu 3 PWL
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
