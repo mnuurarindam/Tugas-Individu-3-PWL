@@ -2,7 +2,7 @@ import React, { useContext, useEffect, useState } from "react";
 import { ScrollTop } from "../components/Button";
 import { ThemeContext } from "../context/themeContext";
 import {
-  LayoutOFBeranda,
+  tugasindividu3,
 } from "../components/Assets";
 
 const Tentang = () => {
@@ -32,7 +32,7 @@ const Tentang = () => {
         <div className="container column minimal-gap">
           <div className="container column half-width minimal-gap">
             <div>
-              <LayoutOFBeranda />
+              <tugasindividu3 />
             </div>
           </div>
         </div>
